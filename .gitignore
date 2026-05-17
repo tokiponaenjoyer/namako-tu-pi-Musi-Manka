@@ -25,6 +25,3 @@ realms_persistence.json
 options.txt
 usercache.json
 debug-profile.json
-
-# remove big mods
-mods/Flashback*
