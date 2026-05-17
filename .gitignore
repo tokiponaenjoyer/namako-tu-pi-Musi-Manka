@@ -1,0 +1,12 @@
+# folders
+.fabric/
+data/
+downloads/
+logs/
+saves/
+server-resource-packs/
+texturepacks/
+
+# files
+realms_persistence.json
+options.txt
