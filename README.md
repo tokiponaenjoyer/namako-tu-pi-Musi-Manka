@@ -2,23 +2,19 @@
   <img src="icon.png" alt="namako tu pi musi Manka" width="120">
 </p>
 
-<h1 align="center">namako tu pi musi Manka</h1>
+<h1 align="center">Vanilla: Extended</h1>
 <p align="center">
   A QOL modpack for Toki Pona speakers for Minecraft Java Edition 26.1.2<br>
 </p>
-# namako tu pi musi Manka
-
-**A cosmetic modpack for the Toki Pona community.**  
-Quality‑of‑life, performance, and visual upgrades – all client‑side.
+# Vanilla: Extended
 
 ---
 
 ## ✨ What’s inside
 - **Quality‑of‑Life Mods** – Smoother inventory management, building, and exploration.
 - **Performance Mods** – Stable framerate even on modest hardware.
-- **Visual Upgrades** – Better skies, improved lighting, subtle shaders.
-- **Resource Packs** – Community‑made packs to refresh the look of the game.
-- **sitelen pona Support** – See the Toki Pona writing system in‑game.
+- **Visual Upgrades** – Resource packs, improved lighting, and various particle effects.
+- **Immersiveness** – Camera effects, 3rd person body in 1st person, and a lot more to make the game more immersive.
 
 ---
 
@@ -35,7 +31,7 @@ Quality‑of‑life, performance, and visual upgrades – all client‑side.
 > If you use another launcher (MultiMC, ATLauncher, etc.) and know how to manually add mods/configs, simply download the latest release ZIP and copy its contents into a Fabric 26.1.2 instance.
 
 ### 1. Download the pack
-Go to the [Releases page](https://github.com/tokiponaenjoyer/namako-tu-pi-musi-manka/releases) and download the `namako-tu-pi-musi-manka-[VERSION]-[LAUNCHER].zip` file for your launcher.
+Go to the [Releases page](https://github.com/tokiponaenjoyer/Vanilla-Extended/releases) and download the `Vanilla-Extended-[VERSION]-[LAUNCHER].zip` file for your launcher.
 
 ### 2. Import into your launcher
 
@@ -75,7 +71,7 @@ Go to the [Releases page](https://github.com/tokiponaenjoyer/namako-tu-pi-musi-m
 
 ## 💬 Feedback & Support
 - **Join the [Studio Citranana Discord](https://discord.gg/4KTr8phxz9)** and make a bug report in the `bugs` channel.
-- **Open an [issue on GitHub](https://github.com/tokiponaenjoyer/namako-tu-pi-musi-manka/issues)** – attach your `crash-report` and `latest.log` always.
+- **Open an [issue on GitHub](https://github.com/tokiponaenjoyer/Vanilla-Extended/issues)** – attach your `crash-report` and `latest.log` always.
 - Pull requests are welcome for config tweaks and documentation.
 
 ---
