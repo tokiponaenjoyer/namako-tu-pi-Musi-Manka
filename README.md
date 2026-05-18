@@ -31,7 +31,7 @@
 > If you use another launcher (MultiMC, ATLauncher, etc.) and know how to manually add mods/configs, simply download the latest release ZIP and copy its contents into a Fabric 26.1.2 instance.
 
 ### 1. Download the pack
-Go to the [Releases page](https://github.com/tokiponaenjoyer/Vanilla-Extended/releases) and download the `Vanilla-Extended-[VERSION]-[LAUNCHER].zip` file for your launcher.
+Go to the [Releases page](https://github.com/tokiponaenjoyer/Vanilla-Extended/releases) and download the `ve-[VERSION]-[LAUNCHER].zip` file for your launcher.
 
 ### 2. Import into your launcher
 
