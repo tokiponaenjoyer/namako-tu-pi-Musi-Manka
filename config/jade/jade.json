@@ -130,6 +130,9 @@
     },
     "underlay": {
       "overlay": true
+    },
+    "balm": {
+      "jade": true
     }
   },
   "history": {
@@ -139,7 +142,8 @@
     "accessibilityModMemory": false,
     "themesHash": -825076755,
     "usersHash": [
-      992756427
+      992756427,
+      -1924720401
     ]
   }
 }

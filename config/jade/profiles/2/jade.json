@@ -129,6 +129,9 @@
     },
     "underlay": {
       "overlay": true
+    },
+    "balm": {
+      "jade": true
     }
   }
 }

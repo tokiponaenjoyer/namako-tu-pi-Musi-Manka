@@ -189,12 +189,79 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.strawstatues]
 				straw_statue = true
 
+			[light_sources.settings.entities.terrestria]
+				rainbow_eucalyptus_chest_boat = true
+				willow_chest_boat = true
+				yucca_palm_chest_boat = true
+				japanese_maple_boat = true
+				cypress_chest_boat = true
+				japanese_maple_chest_boat = true
+				sakura_chest_boat = true
+				hemlock_boat = true
+				sakura_boat = true
+				yucca_palm_boat = true
+				rainbow_eucalyptus_boat = true
+				redwood_boat = true
+				hemlock_chest_boat = true
+				rubber_boat = true
+				redwood_chest_boat = true
+				willow_boat = true
+				cypress_boat = true
+				rubber_chest_boat = true
+
+			[light_sources.settings.entities.enderzoology]
+				fallen_mount = true
+				owl = true
+				owl_egg = true
+				fallen_knight = true
+				concussion_charge_minecart = true
+				enderminy = true
+				confusing_charge_minecart = true
+				concussion_creeper = true
+				dire_wolf = true
+				primed_charge = true
+				wither_witch = true
+				wither_cat = true
+				ender_charge_minecart = true
+				infested_zombie = true
+
+			[light_sources.settings.entities.create]
+				carriage_contraption = true
+				seat = true
+				stationary_contraption = true
+				package = true
+				contraption = true
+				gantry_contraption = true
+				ejector_item = true
+				super_glue = true
+				crafting_blueprint = true
+				potato_projectile = true
+
 			[light_sources.settings.entities.lootr]
 				chest_minecart = true
 				item_frame = true
 
+			[light_sources.settings.entities.fishofthieves]
+				shoal = true
+				splashtail = true
+				battlegill = true
+				wildsplash = true
+				islehopper = true
+				coconut_boat = true
+				devilfish = true
+				coconut_chest_boat = true
+				stormfish = true
+				ancientscale = true
+				wrecker = true
+				plentifin = true
+				pondie = true
+
 			[light_sources.settings.entities.sit]
 				entity_sit = true
+
+			[light_sources.settings.entities.hoppergadgetry]
+				chute_minecart = true
+				grated_hopper_minecart = true
 
 [debug]
 	active_dynamic_lighting_cells = false
