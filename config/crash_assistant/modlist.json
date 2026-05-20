@@ -669,14 +669,6 @@
     "curseForgeHash": 3596689969,
     "modrinthHash": "b6190b247c557c493dc4204121744f289a1d1837"
   },
-  "fallingleaves-2.0.6+26.1.jar": {
-    "jarName": "fallingleaves-2.0.6+26.1.jar",
-    "modId": "fallingleaves",
-    "name": "Falling Leaves",
-    "version": "2.0.6",
-    "curseForgeHash": 1850875301,
-    "modrinthHash": "67f0e53df67f1d17964d31aefe34723b1ed067f1"
-  },
   "fancymenu_fabric_3.9.1_MC_26.1.1-26.1.2.jar": {
     "jarName": "fancymenu_fabric_3.9.1_MC_26.1.1-26.1.2.jar",
     "modId": "fancymenu",

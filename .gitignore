@@ -15,6 +15,7 @@ schematics/
 screenshots/
 server-resource-packs/
 texturepacks/
+config/litematica/
 
 # hidden folders
 .*/
@@ -27,3 +28,4 @@ usercache.json
 debug-profile.json
 config/iris.properties
 config/vmp.properties
+config/voicechat/voicechat-client.properties
