@@ -317,6 +317,14 @@
     "curseForgeHash": 2938114624,
     "modrinthHash": "742c521049471421d47a4ed957d9e5ffd44fac3a"
   },
+  "craftingtweaks-1.6.2.jar": {
+    "jarName": "craftingtweaks-1.6.2.jar",
+    "modId": "mr_craftingtweaks",
+    "name": "Crafting Tweaks",
+    "version": "1.6.2",
+    "curseForgeHash": 1916362737,
+    "modrinthHash": "3a46f3efc3194c9fd0e553a3208df3f8c3db41fa"
+  },
   "CrashAssistant-fabric-26.1-1.11.9.jar": {
     "jarName": "CrashAssistant-fabric-26.1-1.11.9.jar",
     "modId": "crash_assistant",
@@ -1644,6 +1652,14 @@
     "curseForgeHash": 2765938888,
     "modrinthHash": "a06edf942f21a25d56f25f363a1ccaab71cacae5"
   },
+  "travelersbackpack-fabric-26.1.2-11.2.6.jar": {
+    "jarName": "travelersbackpack-fabric-26.1.2-11.2.6.jar",
+    "modId": "travelersbackpack",
+    "name": "Traveler\u0027s Backpack",
+    "version": "11.2.6",
+    "curseForgeHash": 4023853097,
+    "modrinthHash": "4ac5a12dde8b88c2bad3cd38f9af0281f0d7e032"
+  },
   "tweakeroo-fabric-26.1.2-0.28.4.jar": {
     "jarName": "tweakeroo-fabric-26.1.2-0.28.4.jar",
     "modId": "tweakeroo",
@@ -1715,6 +1731,14 @@
     "version": "2.6.17+26.1.2",
     "curseForgeHash": 3987747436,
     "modrinthHash": "ce2569566a0ae5daf620fa093b7a66c39837d6a5"
+  },
+  "waylandcraft-1.0.1.jar": {
+    "jarName": "waylandcraft-1.0.1.jar",
+    "modId": "waylandcraft",
+    "name": "WaylandCraft",
+    "version": "1.0.1",
+    "curseForgeHash": 1365048262,
+    "modrinthHash": "faffaf7a51258b136a1d52f0287c2ad47c99db70"
   },
   "yet_another_config_lib_v3-3.9.3+26.1-fabric.jar": {
     "jarName": "yet_another_config_lib_v3-3.9.3+26.1-fabric.jar",
