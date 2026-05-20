@@ -13,8 +13,7 @@
     "schematicOverlayColorWrongState": "#4CFF9010"
   },
   "Generic": {
-    "placementManagerThreadCount": 4,
-    "placementManagerProfile": "default",
+    "placementManagerThreadCount": 3,
     "areaSelectionsPerWorld": true,
     "changeSelectedCornerOnMove": true,
     "cloneAtOriginalPosition": false,
@@ -102,8 +101,8 @@
     "pickBlockableSlots": "1,2,3,4,5",
     "toolItem": "minecraft:stick",
     "toolItemComponents": "empty",
-    "translationTryBaseLanguage": false,
-    "translationLanguage": "en_us"
+    "translationLanguage": "en_us",
+    "translationMode": "vanilla"
   },
   "Hotkeys": {
     "addSelectionBox": {

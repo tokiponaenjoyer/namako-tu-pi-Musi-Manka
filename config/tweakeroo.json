@@ -221,8 +221,8 @@
         "keys": ""
       }
     },
-    "translationTryBaseLanguage": false,
     "translationLanguage": "en_us",
+    "translationMode": "vanilla",
     "weaponSwapBetterEnchants": {
       "enabled": true,
       "hotkey": {

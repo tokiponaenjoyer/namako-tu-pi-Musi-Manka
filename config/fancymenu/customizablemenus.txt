@@ -72,3 +72,51 @@ net.minecraft.client.gui.screens.ProgressScreen {
 net.minecraft.client.gui.screens.ConnectScreen {
 }
 
+net.minecraft.client.gui.screens.worldselection.WorldCreationGameRulesScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.ExperimentsScreen {
+}
+
+net.minecraft.client.gui.screens.CreateFlatWorldScreen {
+}
+
+net.minecraft.client.gui.screens.PresetFlatWorldScreen {
+}
+
+net.minecraft.client.gui.screens.CreateBuffetWorldScreen {
+}
+
+com.terraformersmc.modmenu.gui.ModsScreen {
+}
+
+dev.tr7zw.trender.gui.client.AbstractConfigScreen$1 {
+}
+
+me.shedaniel.clothconfig2.gui.ClothConfigScreen {
+}
+
+fuzs.puzzleslib.fabric.impl.client.config.CustomConfigurationScreen {
+}
+
+com.reggarf.mods.better_lib.config.gui.BetterConfigScreen {
+}
+
+dev.isxander.yacl3.gui.YACLScreen {
+}
+
+me.cominixo.betterf3.config.gui.ModConfigScreen {
+}
+
+me.cominixo.betterf3.config.gui.modules.ModulesScreen {
+}
+
+fuzs.puzzleslib.fabric.impl.client.config.CustomConfigurationScreen$CustomConfigurationSectionScreen {
+}
+
+com.natamus.collective_common_fabric.config.DuskConfig$DuskConfigScreen {
+}
+
+fi.dy.masa.tweakeroo.gui.GuiConfigs {
+}
+

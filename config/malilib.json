@@ -24,6 +24,7 @@
     },
     "realmsCommonConfig": true,
     "translationLanguage": "en_us",
+    "translationMode": "vanilla",
     "translationOverrides": {
       "enabled": true,
       "hotkey": {

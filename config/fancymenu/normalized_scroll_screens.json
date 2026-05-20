@@ -1,3 +1,4 @@
 {
-  "title_screen": false
+  "title_screen": false,
+  "drippy_loading_overlay": false
 }
