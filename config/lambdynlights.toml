@@ -19,11 +19,11 @@ chunk_rebuild_scheduler = "culling"
 	# Enable first-person player light source.
 	self = true
 	# TNT lighting mode. May be off, simple or fancy.
-	tnt = "off"
+	tnt = "fancy"
 	# Enables dynamic lighting of the Warden's sonic boom attack particles.
 	sonic_boom = true
 	# Creeper lighting mode. May be off, simple or fancy.
-	creeper = "simple"
+	creeper = "fancy"
 	# Enables dynamic lighting of Guardian's lasers. This also can be toggled off by disabling Guardian dynamic lighting.
 	guardian_laser = true
 
@@ -262,6 +262,9 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.hoppergadgetry]
 				chute_minecart = true
 				grated_hopper_minecart = true
+
+			[light_sources.settings.entities.travelersbackpack]
+				backpack = true
 
 [debug]
 	active_dynamic_lighting_cells = false
