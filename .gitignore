@@ -16,7 +16,8 @@ screenshots/
 server-resource-packs/
 texturepacks/
 config/litematica/
-
+config/spark/tmp/
+config/spark/tmp-client/
 # hidden folders
 .*/
 */.index/

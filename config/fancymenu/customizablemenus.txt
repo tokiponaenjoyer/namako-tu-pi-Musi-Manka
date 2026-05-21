@@ -129,3 +129,6 @@ net.minecraft.client.gui.screens.inventory.InventoryScreen {
 net.minecraft.client.gui.screens.AlertScreen {
 }
 
+net.minecraft.client.gui.screens.DisconnectedScreen {
+}
+
