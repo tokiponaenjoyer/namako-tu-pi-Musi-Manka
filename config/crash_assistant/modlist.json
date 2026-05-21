@@ -1604,6 +1604,30 @@
     "curseForgeHash": 4229988621,
     "modrinthHash": "ab4b084bb24e02d546b62b1d6ea06526ec4aeda2"
   },
+  "Terralith_26.1_v2.6.2_Fabric.jar": {
+    "jarName": "Terralith_26.1_v2.6.2_Fabric.jar",
+    "modId": "terralith",
+    "name": "Terralith",
+    "version": "2.6.2",
+    "curseForgeHash": 991238792,
+    "modrinthHash": "9f4a9a8de5c97718c276e16a698e423b48ef0762"
+  },
+  "Terralith_Extra_Recipes_v1.0.jar": {
+    "jarName": "Terralith_Extra_Recipes_v1.0.jar",
+    "modId": "terralith_extra_recipes",
+    "name": "Terralith: Extra Recipes",
+    "version": "1.0",
+    "curseForgeHash": 556957593,
+    "modrinthHash": "5e7fcf3b010b8357846b628831bc61c2be73b08e"
+  },
+  "Terralith_ReStoned_v1.3.1.jar": {
+    "jarName": "Terralith_ReStoned_v1.3.1.jar",
+    "modId": "terralith_restoned",
+    "name": "Terralith ReStoned",
+    "version": "1.3.1",
+    "curseForgeHash": 501669245,
+    "modrinthHash": "66ba79dd83e459c1a47b77d041d56424b6978e7c"
+  },
   "terrestria-8.0.0-alpha.1.jar": {
     "jarName": "terrestria-8.0.0-alpha.1.jar",
     "modId": "terrestria",
@@ -1732,14 +1756,6 @@
     "curseForgeHash": 3987747436,
     "modrinthHash": "ce2569566a0ae5daf620fa093b7a66c39837d6a5"
   },
-  "waylandcraft-1.0.1.jar": {
-    "jarName": "waylandcraft-1.0.1.jar",
-    "modId": "waylandcraft",
-    "name": "WaylandCraft",
-    "version": "1.0.1",
-    "curseForgeHash": 1365048262,
-    "modrinthHash": "faffaf7a51258b136a1d52f0287c2ad47c99db70"
-  },
   "yet_another_config_lib_v3-3.9.3+26.1-fabric.jar": {
     "jarName": "yet_another_config_lib_v3-3.9.3+26.1-fabric.jar",
     "modId": "yet_another_config_lib_v3",
@@ -1755,5 +1771,13 @@
     "version": "2.16.0+26.1",
     "curseForgeHash": 550958527,
     "modrinthHash": "3d5fe088b9b7288aec181535bc084bc6da296fcc"
+  },
+  "zRemove_SDL_Intro_v1.2.2.jar": {
+    "jarName": "zRemove_SDL_Intro_v1.2.2.jar",
+    "modId": "remove_sdl_intro",
+    "name": "Remove Stardust Labs Intro Message",
+    "version": "1.2.2",
+    "curseForgeHash": 2445833588,
+    "modrinthHash": "c1c3067dc507b045eac4b07995e70b32172ee844"
   }
 }

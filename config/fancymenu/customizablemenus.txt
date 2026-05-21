@@ -126,3 +126,6 @@ net.minecraft.client.gui.screens.inventory.ContainerScreen {
 net.minecraft.client.gui.screens.inventory.InventoryScreen {
 }
 
+net.minecraft.client.gui.screens.AlertScreen {
+}
+
