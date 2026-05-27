@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="namako tu pi musi Manka" width="120">
+  <img src="icon.png" alt="vanilla extended logo" width="120">
 </p>
 
 <h1 align="center">Vanilla: Extended</h1>
